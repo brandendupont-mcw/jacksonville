@@ -21,6 +21,12 @@ summaryLength = 30
     url = "/docs/"
     weight = 2
 
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
@@ -42,6 +48,8 @@ summaryLength = 30
     meta_twitter_site = ""
     meta_twitter_creator = ""
 
+ # "/images/sao_bw_l.jpg"
   [params.logo]
       mobile = "/images/logo.svg"
       standard  = "/images/logo.svg"
+
