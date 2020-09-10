@@ -5,6 +5,8 @@ weight: 9
 summary: 
 ---
 
+Metrics on our offices effort use of alternative to incarceration and minimizing unnecessary punitiveness.
+
 <!--more-->
 
 8.1

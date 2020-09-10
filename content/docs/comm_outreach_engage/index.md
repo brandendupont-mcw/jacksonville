@@ -4,6 +4,7 @@ date: 2018-11-28T15:14:39+10:00
 weight: 7
 ---
 
+Metrics involving how our office involves and responds to the community.
 <!--more-->
 
 
