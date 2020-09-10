@@ -5,7 +5,7 @@ weight: 6
 summary: 
 ---
 
-Measures that detail our offices committment to responding and respecting victims.
+Measures that detail our offices committment to responding to and protecting victims.
 
 <!--more-->
 
